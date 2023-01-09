@@ -4,7 +4,7 @@
 
 <h3> Minhas Redes Sociais </h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/karasurage?tab=repositories)](https://github.com/karasurage?tab=repositories){:target="_blank"}
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/karasurage?tab=repositories)](https://github.com/karasurage?tab=repositories){target="_blank"}
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-mateus-veloso/)](https://www.linkedin.com/in/nicholas-mateus-veloso/)
 
 <hr/>
