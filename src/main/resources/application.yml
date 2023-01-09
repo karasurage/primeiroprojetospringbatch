@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: ${DB_URL}?useUnicode=true&characterEncoding=UTF-8
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+  batch:
+    jdbc:
+      initialize-schema: always
