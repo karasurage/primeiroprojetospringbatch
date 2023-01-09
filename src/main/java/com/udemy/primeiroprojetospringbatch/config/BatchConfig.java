@@ -17,23 +17,21 @@ import org.springframework.transaction.PlatformTransactionManager;
 @Configuration
 public class BatchConfig {
 
-    @Value("#{jobParameters['nome']}")
+    @Value("${spring.nome}")
     private String nome;
 
     @Bean
     public Job job(JobRepository jobRepository,
-                   PlatformTransactionManager transactionManager,
-                   String nome) {
+                   PlatformTransactionManager transactionManager) {
         return new JobBuilder("job", jobRepository)
-                .start(step(jobRepository, transactionManager, nome))
+                .start(step(jobRepository, transactionManager))
                 .incrementer(new RunIdIncrementer())
                 .build();
     }
 
     @Bean
     public Step step(JobRepository jobRepository,
-                     PlatformTransactionManager transactionManager,
-                     String nome) {
+                     PlatformTransactionManager transactionManager) {
         return new StepBuilder("step", jobRepository)
                 .tasklet((StepContribution contribution, ChunkContext chunckContext) -> {
                     System.out.println(String.format("Olá, %s!", nome));

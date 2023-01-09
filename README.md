@@ -10,7 +10,7 @@
 <hr/>
 
 <div>
-    <h3>Link do Curso </h3> <a href="https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/">Aqui</a>
+    <h3>Link do Curso </h3> <a href="https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/" target="_blank">Aqui</a>
     <h3>Link do Repoisitório Github</h3>
 </div>
 
@@ -21,5 +21,5 @@
 </h3>
 
 <p align="justify">
-<strong>Treinamento imersivo focado em ser especialista Spring Rest.</strong>
+<strong>Treinamento para desenvolvimento de jobs com Spring Batch.</strong>
 </p>
