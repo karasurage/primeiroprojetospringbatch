@@ -4,8 +4,8 @@
 
 <h3> Minhas Redes Sociais </h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&target="_blank"&link=https://github.com/karasurage?tab=repositories)](https://github.com/karasurage?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&target="_blank"&link=https://www.linkedin.com/in/nicholas-mateus-veloso/)](https://www.linkedin.com/in/nicholas-mateus-veloso/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/karasurage?tab=repositories)](https://github.com/karasurage?tab=repositories){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-mateus-veloso/)](https://www.linkedin.com/in/nicholas-mateus-veloso/)
 
 <hr/>
 
@@ -14,7 +14,7 @@
     <h3>Link do Repoisitório Github</h3>
 </div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&target="_blank"&link=https://github.com/giuliana-bezerra/guide-sb-v5")](https://github.com/giuliana-bezerra/guide-sb-v5)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/giuliana-bezerra/guide-sb-v5")](https://github.com/giuliana-bezerra/guide-sb-v5)
 
 <h3>
    Informações pertinentes ao curso abaixo:
